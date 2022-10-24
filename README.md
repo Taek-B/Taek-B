@@ -5,6 +5,7 @@
 
 
 # ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taek-b&theme=moltack&show_icons=true)
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### List of Techs I've used
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
